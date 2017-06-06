@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Teacher TT</string>
+    <string name="action_update">Update</string>
+    <string name="action_batch">Select Teacher</string>
+</resources>
